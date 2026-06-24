@@ -1,8 +1,9 @@
-pandas
-numpy
+
 matplotlib
 seaborn
-scikit-learn
 streamlit
-requests
+pandas
+numpy
+scikit-learn
 plotly
+requests
