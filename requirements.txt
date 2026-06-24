@@ -4,6 +4,6 @@ seaborn
 streamlit
 pandas
 numpy
-scikit-learn
 plotly
 requests
+scikit-learn==1.6.1
