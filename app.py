@@ -19,12 +19,12 @@ st.set_page_config(
 
 @st.cache_data
 def load_data():
-    dashboard = pd.read_csv("dashboard_data_sample.csv")
-    kpis = pd.read_csv("dashboard_kpis.csv")
-    route_delay = pd.read_csv("route_delay_analysis.csv")
-    route_util = pd.read_csv("route_utilization.csv")
-    stop_volume = pd.read_csv("stop_passenger_volume.csv")
-    weather = pd.read_csv("weather_dataset.csv")
+    dashboard = pd.read_csv("data/dashboard_data_sample.csv")
+    kpis = pd.read_csv("data/dashboard_kpis.csv")
+    route_delay = pd.read_csv("data/route_delay_analysis.csv")
+    route_util = pd.read_csv("data/route_utilization.csv")
+    stop_volume = pd.read_csv("data/stop_passenger_volume.csv")
+    weather = pd.read_csv("data/weather_dataset.csv")
 
     return dashboard, kpis, route_delay, route_util, stop_volume, weather
 
