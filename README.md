@@ -64,17 +64,23 @@ Features:
 ## Dashboard Pages
 
 ### Executive Dashboard
+<img width="1201" height="711" alt="Screenshot 2026-07-19 211334" src="https://github.com/user-attachments/assets/62c952a0-cb5f-47a3-88bf-8de3348794fb" />
+
 
 * Route Statistics
 * Delay Overview
 * Passenger Volume
 
 ### Route Analytics
+<img width="1195" height="707" alt="Screenshot 2026-07-19 211418" src="https://github.com/user-attachments/assets/4f65b510-8d35-4a2e-9294-cc47eab6a4f2" />
+
 
 * Route Utilization
 * Delay Trends
 
 ### Congestion Analytics
+<img width="1188" height="697" alt="Screenshot 2026-07-19 211443" src="https://github.com/user-attachments/assets/130b48ce-821a-4440-9b81-bd07cc58ea3c" />
+
 
 * Peak Hour Analysis
 * Station Activity
